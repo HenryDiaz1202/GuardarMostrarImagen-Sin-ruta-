@@ -4,4 +4,4 @@
 ##  ☺ Se necesita una base de datos
 
 
-### ☺ Se almacenan las imagenes directamente en la base de datos, se guardan el bytes
+### ☺ Se almacenan las imagenes directamente en la base de datos, se guardan en bytes
